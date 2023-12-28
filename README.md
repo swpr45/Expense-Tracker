@@ -1,6 +1,6 @@
 # Expense Tracker Web Application
 
-![Expense Tracker Logo](link_to_your_logo.png)
+![Expense Tracker Logo](logo.png)
 
 ## Overview
 
@@ -39,10 +39,10 @@ To get started with the Expense Tracker, follow these steps:
 
 ## Screenshots
 
-![Expense Tracker Dashboard](screenshots/dashboard.png)
+![Expense Tracker Dashboard](Dashboard.png)
 *Caption: Overview of your expense dashboard.*
 
-![Expense Entry Form](screenshots/expense-entry.png)
+![Expense Entry Form](Expenses.png)
 *Caption: Easily add new expenses with a simple form.*
 
 ## Contributing
